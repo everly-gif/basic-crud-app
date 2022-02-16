@@ -1,2 +1,2 @@
 # basic-crud-app
-A Basic CRUD App with Utopia-PHP
+A Basic CRUD App built with Utopia-PHP
