@@ -61,7 +61,7 @@ use Utopia\Validator\Text;
     ->inject('response')
     ->action(
         function($student_id,$mark,$is_passed,$response){
-            $students_array=json_decode(file_get_contents('/app/students.json'),true);
+            $students_array=json_decode(file_get_contents('/app/students.json'));
             foreach ($students_array as $i){
                 if($i->student_id==$student_id){
                     $i->mark=$mark;
