@@ -1,0 +1,32 @@
+{
+    "1": {
+        "student_id": 1,
+        "name": "Jack",
+        "mark": "92%",
+        "is_passed": true
+    },
+    "2": {
+        "student_id": 2,
+        "name": "xyz",
+        "mark": "40%",
+        "is_passed": false
+    },
+    "4": {
+        "student_id": 4,
+        "name": "xyz",
+        "mark": "65%",
+        "is_passed": true
+    },
+    "5": {
+        "student_id": 4,
+        "name": "xyz",
+        "mark": "65%",
+        "is_passed": true
+    },
+    "6": {
+        "student_id": 4,
+        "name": "xyz",
+        "mark": "65%",
+        "is_passed": true
+    }
+}
